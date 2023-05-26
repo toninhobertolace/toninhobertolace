@@ -1,6 +1,4 @@
 ### ANTONIO bERTOLACE AQUI :
-Atualmente Cientista de Dados, Analista de dados 
-apaixonado por games
 Cientista de Dados | Especialista em Ciência de Dados | Analista de Dados
 
 Sou um profissional dedicado e apaixonado pela área de Ciência de Dados, com uma sólida formação na conclusão do curso "Ciência de Dados Impressionador" pela hashtag treinamentos. Possuo habilidades essenciais e atualizadas para atender às demandas do mercado de trabalho como cientista de dados. Minha experiência e conhecimento em análise de dados, estatística, programação e modelagem preditiva me permitem transformar grandes volumes de dados em insights acionáveis ​​e tomar decisões estratégicas.
